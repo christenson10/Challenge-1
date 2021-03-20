@@ -15,3 +15,7 @@
 ## Updated for more accurate elements and get rid of unnecesary classes.
 
 ## Added comments throughout HTML and CSS to assist with collaboration.
+
+![Screenshot1](assets/images/challenge1screenshot1.jpg "Screenshot 1")
+
+![Screenshot2](assets/images/challenge1screenshot2.jpg "Screenshot 2")
